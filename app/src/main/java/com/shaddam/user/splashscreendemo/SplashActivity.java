@@ -11,6 +11,7 @@ import android.view.MenuItem;
 
 public class SplashActivity extends Activity {
 
+    //Time Set
     private static int SPLASH_SCREEN_TIME = 5000;
 
     @Override
